@@ -41,7 +41,40 @@
 /* main */
 
 .bienvenida {
-  margin-top: 50px;
-  padding: 20px;
-  text-align: center;
+  padding: 10px;
+  height:35px;
+  position:absolute;
+  top:350px;
+  right: 22px;
+  width:345px;
+  background-color: whitesmoke;
+  text-align:center;
+  border-radius:5px;
 }
+.textoBanners{
+	height:19px;
+	position: absolute;
+	top:150px;
+	right: 95px;
+	color: #3C2313;
+}
+.btn-comederos{
+	background-color: #f0a83e;
+	padding:5px;
+	border-radius:5px;
+	border-color: #f0a83e;
+}
+
+.mainImg{
+	background: url("../img/bowl-and-pet-daities-on-green-background\ 1.png");
+	background-size: 100%;
+	background-repeat:no-repeat;
+	background-attachment:unset;
+	height: 500px;
+}
+
+.seccion-productos h2, .fotos-productos h5 p{
+	color: #3C2313;
+}
+
+
